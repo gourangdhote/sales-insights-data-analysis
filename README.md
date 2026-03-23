@@ -1,5 +1,5 @@
 
-# Sales Insights Data Analysis – Power BI Project
+# Sales Insights (Brick and Motor Business) – Power BI Project
 
 ## Project Overview
 This project demonstrates an end-to-end **Business Intelligence workflow** using **SQL and Power BI** to analyze sales data and generate actionable business insights.
